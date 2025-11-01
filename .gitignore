@@ -1,0 +1,18 @@
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins*
+android/.gradle/
+android/app/release/
+ios/Pods/
+**/GeneratedPluginRegistrant.*
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+# System
+.DS_Store
+Thumbs.db
